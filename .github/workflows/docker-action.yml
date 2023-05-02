@@ -4,7 +4,7 @@ on:
     types: [opened, edited, labeled]
 jobs:
   user-and-time:
-    runs-on: ubuntu
+    runs-on: ubuntu-latest
     name: Running a simple BASH script
     steps:
     - name: A simple BASH script
