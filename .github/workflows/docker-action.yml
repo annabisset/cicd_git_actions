@@ -9,4 +9,4 @@ jobs:
     steps:
     - name: A simple BASH script
       id: BASH
-      uses: actions/checkout@v3
+      uses: actions/checkout@main
