@@ -1,3 +1,7 @@
 readme
 changes commited via pull request
 additional changes added to test linking issue to pull request
+
+
+Example of a javascrip action is included in this repo. 
+An example of a docker action can be found here: https://github.com/testesdapri/a-docker-action/tree/main
