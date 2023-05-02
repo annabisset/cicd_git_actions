@@ -9,4 +9,4 @@ jobs:
     steps:
     - name: A simple BASH script
       id: BASH
-      uses: bisseta/cicd_git_actions@main
+      uses: actions/checkout@v3
