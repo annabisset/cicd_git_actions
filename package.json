@@ -1,0 +1,15 @@
+{
+  "name": "cicd_git_actions",
+  "version": "1.0.0",
+  "description": "readme changes commited via pull request additional changes added to test linking issue to pull request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@actions/core": "^1.10.0"
+  }
+}
